@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftExtensions",
+        "repositoryURL": "https://github.com/u5-03/SwiftExtensions",
+        "state": {
+          "branch": null,
+          "revision": "67e514dc3ee38ce67e19580ffe72d469f860c89a",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SwiftNetwork",
+        "repositoryURL": "https://github.com/u5-03/SwiftNetwork",
+        "state": {
+          "branch": null,
+          "revision": "9eb91f9b33f9a4c6eff4fdcc6f6f283fdac30d8b",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

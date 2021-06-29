@@ -1,0 +1,9 @@
+"common.cancel" = "キャンセル";
+"error.timeout" = "タイムアウトが発生しました\n通信環境の良い場所で再試行してください";
+"error.invalide.link"="無効なURLです";
+"error.cancelled"="通信がキャンセルされました。";
+"error.unknown" = "エラーが発生しました";
+"common.open.setting.app"="設定を開く";
+
+"privacy.function.calendar"="カレンダー";
+"alert.ask.permission"="%@機能へのアクセスが許可されていないので、設定アプリから権限を変更してください";

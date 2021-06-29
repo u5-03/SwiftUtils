@@ -1,0 +1,9 @@
+"common.cancel" = "Cancel";
+"error.timeout" = "An timeout error has occurred.\nTry again in a place with good communication environment.";
+"error.cancelled"="The request was cancelled";
+"error.invalide.link"="This is invalide URL";
+"error.unknown" = "An error has occurred.";
+"common.open.setting.app"="Open setting app";
+
+"privacy.function.calendar"="Calendar";
+"alert.ask.permission"="Since access to %@ function is not allowed, please change the permission from the settings app";
